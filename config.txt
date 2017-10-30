@@ -1,0 +1,5 @@
+1. LocalHostName: localhost
+2. FTPSite Download: ftp://ftp2.winzip.com/testdown
+3. SFTPSite Download: http://itcsubmit.wustl.edu/icons/ServerAccessTest.html
+4. FTPSite Upload: ftp://speedtest.tele2.net
+5. SFTPSite Upload:
